@@ -57,3 +57,17 @@ grep -Po '(?<=SRC=)[^ ]*' /var/log/ufw.log | sort | uniq -c
 Useful links:
 * [Regular expressions](http://perldoc.perl.org/perlre.html)
 * [Bash Cheat Sheet](http://crowdsourcing-class.org/bash-commands.html)
+
+## Exam questions
+
+* Explain the two sets of Factors - Threat Agents and Vulnerability
+* Give some examples of how you can change those parameters - for example for MySQL servers
+* Explain how security risks are rated in OWASP
+* Argue wether OWASP gives the complete picture of security risks on an application
+
+### Logging and monitoring
+
+* Explain the difference between prevention, detection and recovery for systems you develop.
+* Discuss how a firewall can produce log files.
+* Explain how to set up a remote logging server, and use that to register logins to an ubuntu server.
+* Explain how to use a cloud-based logging service to enable anomaly detection.
