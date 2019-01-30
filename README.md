@@ -60,6 +60,8 @@ Useful links:
 
 ## Exam questions
 
+### OWASP Rating Methodology
+
 * Explain the two sets of Factors - Threat Agents and Vulnerability
 * Give some examples of how you can change those parameters - for example for MySQL servers
 * Explain how security risks are rated in OWASP
