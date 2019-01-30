@@ -12,7 +12,7 @@ OWASP Top 10 - 2017
 The Ten Most Critical Web Application Security Risks
 [PDF](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf)
 
-Slides: [01-OWASP, A10, and Firewalls.pdf](https://github.com/SecurityDatFall2018/Week-1/blob/master/01-OWASP%2C%20A10%2C%20and%20Firewalls.pdf)
+Slides: [01-OWASP, A10, and Firewalls.pdf](01-OWASP%2C%20A10%2C%20and%20Firewalls.pdf)
 
 ## Learning Goals
 
